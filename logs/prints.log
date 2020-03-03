@@ -1,0 +1,4 @@
+15:51:27.530 [main] INFO  resources.TestBase - Successfully navigated to Flipkart Homepage
+15:51:34.405 [main] INFO  resources.TestBase - Driver is initialized
+15:51:35.986 [main] INFO  resources.TestBase - Driver is initialized
+15:51:39.557 [main] INFO  resources.TestBase - Successfully navigated to Tripadvisor Homepage

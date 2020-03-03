@@ -1,0 +1,7 @@
+15:38:59.616 [main] INFO  resources.TestBase - Successfully navigated to Tripadvisor Homepage
+15:41:36.531 [main] INFO  resources.TestBase - Driver is initialized
+15:41:38.151 [main] INFO  resources.TestBase - Driver is initialized
+15:41:42.619 [main] INFO  resources.TestBase - Successfully navigated to Tripadvisor Homepage
+15:51:11.667 [main] INFO  resources.TestBase - Driver is initialized
+15:51:13.222 [main] INFO  resources.TestBase - Driver is initialized
+15:51:16.207 [main] INFO  resources.TestBase - Successfully navigated to Amazon Homepage

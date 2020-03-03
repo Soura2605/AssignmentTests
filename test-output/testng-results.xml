@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44730" started-at="2020-03-03T10:21:09Z" finished-at="2020-03-03T10:21:54Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="23677" started-at="2020-03-03T10:21:09Z" finished-at="2020-03-03T10:21:32Z">
+      <class name="Assignment.EcommWebsiteTesting.AssignmentTest1">
+        <test-method status="PASS" signature="initializeDriver()[pri:0, instance:Assignment.EcommWebsiteTesting.AssignmentTest1@229d10bd]" name="initializeDriver" is-config="true" duration-ms="2554" started-at="2020-03-03T10:21:09Z" finished-at="2020-03-03T10:21:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method status="PASS" signature="comparePrices(java.lang.String)[pri:0, instance:Assignment.EcommWebsiteTesting.AssignmentTest1@229d10bd]" name="comparePrices" duration-ms="20751" started-at="2020-03-03T10:21:11Z" data-provider="getData" finished-at="2020-03-03T10:21:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iPhone XR (64GB) - Yellow]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- comparePrices -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Assignment.EcommWebsiteTesting.AssignmentTest1@229d10bd]" name="afterMethod" is-config="true" duration-ms="338" started-at="2020-03-03T10:21:32Z" finished-at="2020-03-03T10:21:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Assignment.EcommWebsiteTesting.AssignmentTest1 -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="21033" started-at="2020-03-03T10:21:32Z" finished-at="2020-03-03T10:21:54Z">
+      <class name="Assignment.EcommWebsiteTesting.AssignmentTest2">
+        <test-method status="PASS" signature="initializeDriver()[pri:0, instance:Assignment.EcommWebsiteTesting.AssignmentTest2@5e316c74]" name="initializeDriver" is-config="true" duration-ms="1581" started-at="2020-03-03T10:21:32Z" finished-at="2020-03-03T10:21:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method status="PASS" signature="giveRatings(java.lang.String)[pri:0, instance:Assignment.EcommWebsiteTesting.AssignmentTest2@5e316c74]" name="giveRatings" duration-ms="19050" started-at="2020-03-03T10:21:34Z" data-provider="getData" finished-at="2020-03-03T10:21:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Club Mahindra]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- giveRatings -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Assignment.EcommWebsiteTesting.AssignmentTest2@5e316c74]" name="afterMethod" is-config="true" duration-ms="396" started-at="2020-03-03T10:21:53Z" finished-at="2020-03-03T10:21:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Assignment.EcommWebsiteTesting.AssignmentTest2 -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
